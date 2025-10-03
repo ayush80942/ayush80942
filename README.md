@@ -3,7 +3,7 @@
 🎓 B.Tech **AI & Data Science** student (USAR, GGSIPU, Batch 2026)  
 💻 Software Engineering Intern @ [PictureTime](https://picturetime.in) — contributing to web, mobile & backend projects  
 🔗 Full-stack experience: **React, Flutter, Spring Boot, Rust**  
-🛠 Vice Chair @ [Software Development Cell (SDC-USAR)](https://github.com/SDC-USAR) — leading a 30+ member team building institutional tools & managing major tech events  
+🛠 Vice Chair @ [Software Development Cell (SDC-USAR)](https://github.com/SDC-USAR) — building institutional tools & managing major tech events  
  
 
 ---
